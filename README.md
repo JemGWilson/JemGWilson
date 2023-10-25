@@ -1,7 +1,4 @@
 ### Hi! Jem here 🌱
-
-Jem G Wilson
-
 They/Them (patent pending)
 
 #### Who am I?
