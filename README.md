@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi! Jem here 🌱
+
+Jem G Wilson
+They/Them (patent pending)
+
+#### Who am I?
+I'm a programmer with an BA in Physics. I'm using my data science skills to (hopefully) make the world a bit better.
+
+#### Fun Facts
+⚡ I was born deaf! (to hearing parents) (I have cochlear implants)
+
+⚡ I don't like chocolate (but I don't make this a part of my personality... unless...)
+
+⚡ [put third fact here]
 
 <!--
 **JemGWilson/JemGWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
